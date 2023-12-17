@@ -4,7 +4,7 @@
 
 # BlackMagic
 
-APP DESCRIPTION HERE... ex: pipReq is a Python application designed to effortlessly perform various essential operations related to Python package management, such as generating 'requirements.txt' files, checking for installed package issues, updating packages and installing from 'requirements.txt'. 
+BlackMagic is a Python application designed to simplify code formatting using Black, a popular code formatter. This GUI-based tool offers a seamless experience for loading Python files, applying Black formatting, and saving the formatted code. The interface provides a side-by-side comparison of the original and formatted code, enhancing code readability and maintainability.
 
 ## Screenshots 
 
