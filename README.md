@@ -28,17 +28,17 @@ Provide examples and guidelines on how to use your project.
 
 ## Features 
 
-User-Friendly Interface: Intuitive GUI for effortless code formatting.
+• User-Friendly Interface: Intuitive GUI for effortless code formatting.
 
-Load and Save: Easily load Python files and save the formatted code.
+• Load and Save: Easily load Python files and save the formatted code.
 
-Black Integration: Seamless integration with Black for consistent code styling.
+• Black Integration: Seamless integration with Black for consistent code styling.
 
-Comparison View: Side-by-side display of original and formatted code for quick assessment.
+• Comparison View: Side-by-side display of original and formatted code for quick assessment.
 
 ## Contributing 
 
-Contributions and feedback are welcome! Feel free to submit issues, feature requests, or pull requests to enhance ENTER.APP.NAME.HERE. 
+Contributions and feedback are welcome! Feel free to submit issues, feature requests, or pull requests to enhance BlackMagic. 
 
 ## License 
 
