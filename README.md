@@ -28,7 +28,13 @@ Provide examples and guidelines on how to use your project.
 
 ## Features 
 
-List and describe the key features of your project. 
+User-Friendly Interface: Intuitive GUI for effortless code formatting.
+
+Load and Save: Easily load Python files and save the formatted code.
+
+Black Integration: Seamless integration with Black for consistent code styling.
+
+Comparison View: Side-by-side display of original and formatted code for quick assessment.
 
 ## Contributing 
 
