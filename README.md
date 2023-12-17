@@ -24,8 +24,6 @@ Explain how to install your project.
 
 ## Usage 
 
-How to Use:
-
 1. Load File: Click "Load Python File" to select the Python file you want to format.
 
 2. Format Code: Press "Format Code" to apply Black formatting and view the changes.
@@ -33,14 +31,9 @@ How to Use:
 3. Save Formatted Code: Use "Save Formatted Code" to save the formatted code to a new file.
 
 Usage Example:
-
-
-bash
-Edit
-
-Run
-Copy code
+```python
 python blackmagic.py
+```
 
 ## Features 
 
