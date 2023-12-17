@@ -30,7 +30,7 @@ Explain how to install your project.
 
 3. Save Formatted Code: Use "Save Formatted Code" to save the formatted code to a new file.
 
-`**Usage Example:**`
+>**Usage Example:**>
 ```python
 python blackmagic.py
 ```
