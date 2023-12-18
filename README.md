@@ -37,11 +37,11 @@ python blackmagic.py
 
 ## Features 
 
-- User-Friendly Interface:
+- User-Friendly Interface
   - Intuitive GUI for effortless code formatting.
 
-- Load and Save:
- - Easily load Python files and save the formatted code.
+- Load and Save
+  - Easily load Python files and save the formatted code.
 
 - Seamless integration with Black for consistent code styling.
 
